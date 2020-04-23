@@ -215,7 +215,7 @@
         "thumbnail_url": "https://raw.githubusercontent.com/mischievousdev/modmail-plugins/master/download%20(9).jpeg"
     }
     "githubstats": {
-        "repository": "rishi432/modmail-plugins/musiq-for-modmail",
+        "repository": "rishi432/modmail-plugins",
         "branch": "master",
         "description": "MUSIC",
         "bot_version": "2.20.1",
