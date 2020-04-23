@@ -213,7 +213,7 @@
         "title": "Github Stats",
         "icon_url": "https://raw.githubusercontent.com/mischievousdev/modmail-plugins/master/download%20(9).jpeg",
         "thumbnail_url": "https://raw.githubusercontent.com/mischievousdev/modmail-plugins/master/download%20(9).jpeg"
-    }
+    },
     "githubstats": {
         "repository": "rishi432/modmail-plugins",
         "branch": "master",
@@ -222,5 +222,6 @@
         "title": "musiq-for-modmail",
         "icon_url": "https://raw.githubusercontent.com/mischievousdev/modmail-plugins/master/download%20(9).jpeg",
         "thumbnail_url": "https://raw.githubusercontent.com/mischievousdev/modmail-plugins/master/download%20(9).jpeg"
+    }   
 
 }
