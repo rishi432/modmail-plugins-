@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import discord, functools, itertools, math, random, youtube_dl
+import discord, functools, itertools, math, random, youtube_dl, asyncio
 
 from discord.ext import commands
 from async_timeout import timeout
