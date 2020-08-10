@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import discord, functools, itertools, math, random, youtube_dl
 
-
-import functools
-import itertools
-import math
-import random
-import youtube_dl
+from discord.ext import commands
 from async_timeout import timeout
 
 # Silence useless bug reports messages
@@ -254,7 +250,7 @@ class VoiceState:
             self.voice = None
 
 
-class Music(commands.Cog):
+class Musiq(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
         self.voice_states = {}
@@ -492,5 +488,3 @@ class Music(commands.Cog):
 
 def setup(bot):
     bot.add_cog(Musiq(bot))
-
-
